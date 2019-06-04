@@ -1,0 +1,12 @@
+C:\Users\tgrl6\source\repos\otel-otomasyonu\otel-otomasyonu\bin\Debug\otel-otomasyonu.exe.config
+C:\Users\tgrl6\source\repos\otel-otomasyonu\otel-otomasyonu\bin\Debug\otel-otomasyonu.exe
+C:\Users\tgrl6\source\repos\otel-otomasyonu\otel-otomasyonu\bin\Debug\otel-otomasyonu.pdb
+C:\Users\tgrl6\source\repos\otel-otomasyonu\otel-otomasyonu\obj\Debug\otel-otomasyonu.csprojAssemblyReference.cache
+C:\Users\tgrl6\source\repos\otel-otomasyonu\otel-otomasyonu\obj\Debug\otel_otomasyonu.Properties.Resources.resources
+C:\Users\tgrl6\source\repos\otel-otomasyonu\otel-otomasyonu\obj\Debug\otel-otomasyonu.csproj.GenerateResource.cache
+C:\Users\tgrl6\source\repos\otel-otomasyonu\otel-otomasyonu\obj\Debug\otel-otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\tgrl6\source\repos\otel-otomasyonu\otel-otomasyonu\obj\Debug\otel-otomasyonu.exe
+C:\Users\tgrl6\source\repos\otel-otomasyonu\otel-otomasyonu\obj\Debug\otel-otomasyonu.pdb
+C:\Users\tgrl6\source\repos\otel-otomasyonu\otel-otomasyonu\obj\Debug\otel_otomasyonu.AdminGiris.resources
+C:\Users\tgrl6\source\repos\otel-otomasyonu\otel-otomasyonu\obj\Debug\otel_otomasyonu.AnaEkran.resources
+C:\Users\tgrl6\source\repos\otel-otomasyonu\otel-otomasyonu\obj\Debug\otel_otomasyonu.OzellikEkle.resources
